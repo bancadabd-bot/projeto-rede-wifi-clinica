@@ -69,9 +69,8 @@ Foram realizados testes de:
 
 ## 📄 Trabalho completo
 
-O artigo completo do projeto está disponível na pasta `docs`.
+📘 **[Clique aqui para visualizar o artigo completo do TCC](docs/TCC-Projeto-Rede-WiFi-Clinica.pdf)**
 
-## 👨‍💻 Autor
-
+O trabalho apresenta detalhadamente a arquitetura, implementação, configurações e testes realizados no ambiente da clínica.
 Jonatan Luiz Frota de Carvalho  
 Tecnólogo em Redes de Computadores
